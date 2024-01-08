@@ -86,7 +86,7 @@ We have created three separate dashboard files for each department:
 # Insights
 
 ## Urban Economy:
-1.Creating new industrial parks and providing high-standard infrastructure.   
+1. Creating new industrial parks and providing high-standard infrastructure.   
 2. By ensuring access to a drinking water supply to all and 24-hour power, maintaining law and order, improving road facilities, and offering affordable public transport
 3. Policies like TS-iPASS and TS-B Pass have attracted local and international investors to invest in the state.
 4. Expanding sectors such as Pharma and IT has created more job opportunities and income sources for both the people and the government.
