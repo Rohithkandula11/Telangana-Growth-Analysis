@@ -82,7 +82,7 @@ We have created three separate dashboard files for each department:
 
 3. **Ts-Ipass Dashboard:** This dashboard focuses on the Ts-Ipass data, offering relevant visualizations and analysis.
 
-# The Insights and reccomendation provided is drawn from provided data and own research from the data provided on Telangana Government Website
+### The Insights and reccomendation provided is drawn from provided data and own research from the data provided on Telangana Government Website
 # Insights
 
 ## Urban Economy:
