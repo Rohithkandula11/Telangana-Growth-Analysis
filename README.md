@@ -82,8 +82,8 @@ We have created three separate dashboard files for each department:
 
 3. **Ts-Ipass Dashboard:** This dashboard focuses on the Ts-Ipass data, offering relevant visualizations and analysis.
 
--- The Insights and reccomendation provided is drawn from provided data and own research from the data provided on Telangana Government Website
-## Insights
+# The Insights and reccomendation provided is drawn from provided data and own research from the data provided on Telangana Government Website
+# Insights
 
 # Urban Economy:
 1.Creating new industrial parks and providing high-standard infrastructure.   
@@ -92,7 +92,7 @@ We have created three separate dashboard files for each department:
 4. Expanding sectors such as Pharma and IT has created more job opportunities and income sources for both the people and the government.
 5. Diversifying major sectors beyond the capital region into district headquarters and other areas.
 
-# Rural Economy:
+## Rural Economy:
 1. The construction of major lift irrigation projects like Kaleshwaram and Palamuru-Rangareddy has significantly increased agricultural production, elevating the state to the top rank in the country.
 2. Providing investment support schemes like Raithu - bandhu, ensuring 24-hour quality power, and offering agricultural loan repayment assistance by the government benefit farmers.
 3. Giving subsidies and promoting allied sectors of agriculture, such as fishing and livestock, has contributed to the rise in the rural economy, increasing the income sources of people in rural areas.
@@ -101,9 +101,9 @@ We have created three separate dashboard files for each department:
 - These initiatives, policies, and schemes by the government have shown tremendous growth in the state's economy over the past 5 years.
 
 
-## Recommendations
+# Recommendations
 
-# Detailed Report :
+### Detailed Report :
 
 •	Continuous improvement in infrastructure facilities, such as enhancing transportation networks for better mobility and ensuring that the city is more liveable.
 •	The length of the national highways in the state is approximately 4.6%. An increase in the length of the highways contributes to improved transportation connectivity and state logistics, enhancing transportation networks.
