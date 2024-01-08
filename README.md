@@ -68,7 +68,9 @@ For this analysis, we utilized the following tools:
 - **Power BI:** Used for data visualization and creating insightful dashboards.
 - **Excel:** Utilized for data preparation and initial analysis.
 
+## Visuals and insights
 
+- The visuals and insights for the primary and secondary questions are provided in Telangana Growth
 
 ## Dashboard Files
 
@@ -80,14 +82,3 @@ We have created three separate dashboard files for each department:
 
 3. **Ts-Ipass Dashboard:** This dashboard focuses on the Ts-Ipass data, offering relevant visualizations and analysis.
 
-## Secondary Research (Additional Questions)
-
-While the primary questions cover a wide range of aspects, there may be additional questions that require further research and data:
-
-1. **Commercial Property Purchase:** Identify the top 5 districts to buy commercial properties in Telangana and provide justifications.
-
-2. **Government Policies and Initiatives:** Investigate significant policies or initiatives put into effect by the government to enhance economic growth, investments, and employment in Telangana. Quantify the impact of these policies using available data.
-
-3. **Insights and Recommendations:** Provide the top 5 insights and 5 recommendations to the Telangana government for sustained growth in the next 5 years based on your analysis.
-
-This README file serves as an overview of the Telangana Growth Analysis project, highlighting its objectives, primary questions, tools used, and the availability of separate dashboard files for each department's analysis.
