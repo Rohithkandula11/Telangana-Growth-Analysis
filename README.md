@@ -82,5 +82,37 @@ We have created three separate dashboard files for each department:
 
 3. **Ts-Ipass Dashboard:** This dashboard focuses on the Ts-Ipass data, offering relevant visualizations and analysis.
 
+-- The Insights and reccomendation provided is drawn from provided data and own research from the data provided on Telangana Government Website
+## Insights
+
+# Urban Economy:
+1.Creating new industrial parks and providing high-standard infrastructure.   
+2. By ensuring access to a drinking water supply to all and 24-hour power, maintaining law and order, improving road facilities, and offering affordable public transport
+3. Policies like TS-iPASS and TS-B Pass have attracted local and international investors to invest in the state.
+4. Expanding sectors such as Pharma and IT has created more job opportunities and income sources for both the people and the government.
+5. Diversifying major sectors beyond the capital region into district headquarters and other areas.
+
+# Rural Economy:
+1. The construction of major lift irrigation projects like Kaleshwaram and Palamuru-Rangareddy has significantly increased agricultural production, elevating the state to the top rank in the country.
+2. Providing investment support schemes like Raithu - bandhu, ensuring 24-hour quality power, and offering agricultural loan repayment assistance by the government benefit farmers.
+3. Giving subsidies and promoting allied sectors of agriculture, such as fishing and livestock, has contributed to the rise in the rural economy, increasing the income sources of people in rural areas.
+4. Programs like Palle Pragathi and Patana Pragathi, focused on rural and urban development, aim to enhance the quality of life by creating more livable spaces and improving cleanliness.
+
+- These initiatives, policies, and schemes by the government have shown tremendous growth in the state's economy over the past 5 years.
+
+
+## Recommendations
+
+# Detailed Report :
+
+•	Continuous improvement in infrastructure facilities, such as enhancing transportation networks for better mobility and ensuring that the city is more liveable.
+•	The length of the national highways in the state is approximately 4.6%. An increase in the length of the highways contributes to improved transportation connectivity and state logistics, enhancing transportation networks.
+•	Developing the existing industrial parks and creating new special economic zones around the capital region, Hyderabad.
+•	Creating relevant industrial parks In specific areas depending upon the availability of the workforce and the infrastructure in the urban and rural districts.
+•	There is significant potential for growth in manufacturing and related sectors. It's better to focus more on attracting investments related to the manufacturing industry.
+•	Creating relevant industrial parks for sectors like food processing and other manufacturing units in rural districts, which helps create more job opportunities and enables farmers to sell their agricultural products.
+•	Helping farmers acquire knowledge about diversified and commercial crops to increase their sources of income, providing regular information related to weather and crop demand for the farmers to deal with uncertainties in farming
+•	Providing more subsidies to allied sectors of agriculture and creating relevant sectors like meat processing and food processing in rural districts can contribute to the growth of the rural economy.
+•	Properly maintaining existing lift irrigation projects and managing water storage dams and canals provide more facilities for the agriculture sector.
 
 
