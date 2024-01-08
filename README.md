@@ -105,8 +105,14 @@ We have created three separate dashboard files for each department:
 
 ### Detailed Report :
 
-•	Continuous improvement in infrastructure facilities, such as enhancing transportation networks for better mobility and ensuring that the city is more liveable.
-•	The length of the national highways in the state is approximately 4.6%. An increase in the length of the highways contributes to improved transportation connectivity and state logistics, enhancing transportation networks.
+• Continuous improvement in infrastructure facilities, such as enhancing transportation networks for better mobility and ensuring that the city is more livable.
+• Developing the existing industrial parks and creating new special economic zones around the capital region, Hyderabad.
+• Creating relevant industrial parks in specific areas depending upon the availability of the workforce and the infrastructure in the urban and rural districts.
+• There is significant potential for growth in manufacturing and related sectors. It's better to focus more on attracting investments related to the manufacturing industry.
+• Creating relevant industrial parks for sectors like food processing and other manufacturing units in rural districts, which helps create more job opportunities and enables farmers to sell their agricultural products.
+• Helping farmers acquire knowledge about diversified and commercial crops to increase their sources of income, providing regular information related to weather and crop demand for the farmers to deal with uncertainties in farming.
+• Providing more subsidies to allied sectors of agriculture and creating relevant sectors like meat processing and food processing in rural districts can contribute to the growth of the rural economy.
+• Properly maintaining existing lift irrigation projects and managing water storage dams and canals provide more facilities for the agriculture sector.
 
 
 
