@@ -54,12 +54,12 @@ This README file serves as an overview of the Telangana Growth Analysis project,
 
 The Telangana Growth Analysis project involves exploring three datasets: Stamp Registration, Transportation, and Ts-Ipass. The primary goals are as follows:
 
-- Need to create the visuals and provide the insights for the primary and secondary questions.
+- Provide sufficient visuals and present the insights for the primary and secondary questions.
 - Understand the attributes, categories, and time period of each dataset.
 - Analyze trends and patterns within each department.
 - Identify growth opportunities and areas needing attention.
 - Find correlations among these departments and report the overall growth of the state through insights and relevant visuals such as shape maps.
-- Create relevant dashboards for every department to anlayse and provide the insights and reccomendations as per research and analysis.
+- Analyse and present the insights from the data by creating relevant dashboards and provide recommendations as per analysis and research.
 
 ## Tools Used
 
