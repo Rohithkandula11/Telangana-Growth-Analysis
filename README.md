@@ -106,6 +106,7 @@ We have created three separate dashboard files for each department:
 ### Detailed Report :
 
 •	Continuous improvement in infrastructure facilities, such as enhancing transportation networks for better mobility and ensuring that the city is more liveable.
+•	The length of the national highways in the state is approximately 4.6%. An increase in the length of the highways contributes to improved transportation connectivity and state logistics, enhancing transportation networks.
 
 
 
