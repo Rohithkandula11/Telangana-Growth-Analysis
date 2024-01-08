@@ -70,7 +70,7 @@ For this analysis, we utilized the following tools:
 
 ## Visuals and insights
 
-- The visuals and insights for the primary and secondary questions are provided in Telangana Growth
+- The visuals and insights for the primary and secondary questions are provided in Telangana Growth Analysis Presentation.pptx file.
 
 ## Dashboard Files
 
@@ -81,4 +81,6 @@ We have created three separate dashboard files for each department:
 2. **Transportation Dashboard:** Here, you can find visualizations and insights related to the Transportation dataset.
 
 3. **Ts-Ipass Dashboard:** This dashboard focuses on the Ts-Ipass data, offering relevant visualizations and analysis.
+
+
 
