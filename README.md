@@ -1,4 +1,11 @@
 # Telangana-Growth-Analysis
+## Problem Statement
+
+Need to analyze Telangana’s growth among different sectors, mainly Estamp & Revenue, Transport Department, and TS Ipass Departments. The data is given.I need to analyze it quantitatively and provide useful 
+insights to the Telangana government. These insights would help them to make data-informed decisions that would further support the growth of the state. 
+The target audience is top-level management, so I need to create a convincing presentation to provide insights and recommendations.
+
+The project has some primary and secondary questions for three different departments. I am allowed to collect the data from my own research to provide accurate insights and recommendations to the government.
 
 ## Objective
 
